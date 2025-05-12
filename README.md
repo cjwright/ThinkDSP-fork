@@ -1,4 +1,4 @@
-# ThinkDSP  Forked from original book repo
+# ThinkDSP  Forked from original book repo to ThinkDSP-fork
 
 *Think DSP* is an introduction to Digital Signal Processing in Python.
 
